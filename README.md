@@ -1,4 +1,4 @@
-# goit-node-01-CLI-App
+# CLI-App
 
 ### Get and display the entire list of contacts in the form of a table (console.table)
 
